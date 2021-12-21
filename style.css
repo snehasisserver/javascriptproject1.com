@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background:linear-gradient(#34b4eb 0%,#054e6e 100%);
+    padding: 50px;
+}
+#p1{
+    font-size: 20px;
+    background-color: white;
+}
+img{
+    border-radius: 30px;
+    margin-top: 150px;
+}
